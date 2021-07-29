@@ -32,13 +32,13 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![ORMAR](https://img.shields.io/badge/-ORMAR-%232c3e50?style=flat-square&logo=ORMAR)
-![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-black?style=flat-square&logo=SqlAlchemy)
+![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DD0031?style=flat-square&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
 **Front-end**
 
@@ -54,7 +54,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-![Postman](https://img.shields.io/badge/Postman-%23F05032?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
