@@ -17,18 +17,20 @@
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
 
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
 
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![Django Channels](https://img.shields.io/badge/-Django_Channels-black?style=flat-square&logo=Django)
+![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-black?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
-![ORMAR](https://img.shields.io/badge/-ORMAR-black?style=flat-square&logo=ORMAR)
+![ORMAR](https://img.shields.io/badge/-ORMAR-%232c3e50?style=flat-square&logo=ORMAR)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-black?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=Celery)
 
@@ -60,7 +62,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula)
+![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
