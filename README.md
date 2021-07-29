@@ -62,6 +62,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 **Learning**
+
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
 
