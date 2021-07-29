@@ -5,11 +5,11 @@
 **Back-end**
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/-Django-Rest-Framework-black?style=flat-square&logo=Django-Rest-Framework)
-![Django Channels](https://img.shields.io/badge/-Django-Channels-black?style=flat-square&logo=Django-Channels)
-![Django Ninja](https://img.shields.io/badge/-Django-Ninja-black?style=flat-square&logo=Django-Ninja)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![Django Channels](https://img.shields.io/badge/-Django_Channels-black?style=flat-square&logo=Django)
+![Django Ninja](https://img.shields.io/badge/-Django_Ninja-black?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
-![Flask](Flaskttps://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![ORMAR](https://img.shields.io/badge/-ORMAR-black?style=flat-square&logo=ORMAR)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-black?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=Celery)
@@ -27,17 +27,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
 **Tools**
 ![Docker](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=angular)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
-
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
