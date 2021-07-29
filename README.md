@@ -3,7 +3,7 @@
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://t.me/DJWOMS">
-  <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram" />
+  <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/telegram.svg" />
 </a>
 <a href="https://discord.gg/v36E3cWx">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -17,6 +17,7 @@
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 **Back-end**
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
@@ -29,10 +30,12 @@
 ![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=Celery)
 
 **Databases**
+
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-%232c3e50?style=flat-square&logo=Redis)
 
 **Front-end**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
@@ -42,6 +45,7 @@
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 **Tools**
+
 ![Docker](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=angular)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
@@ -56,7 +60,7 @@
 ![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula)
 ![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
 
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
 <!--
 **DJWOMS/DJWOMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
