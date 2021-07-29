@@ -38,7 +38,7 @@
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-%232c3e50?style=flat-square&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-DD0031?style=flat-square&logo=Redis)
 
 **Front-end**
 
@@ -63,7 +63,7 @@
 
 **Learning**
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
-![С#](https://img.shields.io/badge/-%D0%A1Sharp-black?style=flat-square&logo=csharp)
+![С#](https://img.shields.io/badge/-%D0%A1Sharp-%232c3e50?style=flat-square&logo=csharp)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
