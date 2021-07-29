@@ -29,11 +29,11 @@
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-black?style=flat-square&logo=Django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![ORMAR](https://img.shields.io/badge/-ORMAR-%232c3e50?style=flat-square&logo=ORMAR)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-black?style=flat-square&logo=SqlAlchemy)
-![Celery](https://img.shields.io/badge/-Celery-black?style=flat-square&logo=Celery)
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
 **Databases**
 
@@ -54,12 +54,16 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-%23F05032?style=flat-square&logo=postman)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+**Learning**
+![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
+![С#](https://img.shields.io/badge/-%D0%A1Sharp-black?style=flat-square&logo=csharp)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
