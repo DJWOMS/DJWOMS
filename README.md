@@ -17,11 +17,11 @@
 
 ## Telegram
 
-![My](https://t.me/DJWOMS)
-![Channel](https://t.me/django_school)
-![Django Channel](https://t.me/trueDjangoChannel)
-![FastAPI](https://t.me/fastapiru)
-![Masonite](https://t.me/masonite_channel)
+[My](https://t.me/DJWOMS)</br>
+[Channel](https://t.me/django_school)</br>
+[Django Channel](https://t.me/trueDjangoChannel)</br>
+[FastAPI](https://t.me/fastapiru)</br>
+[Masonite](https://t.me/masonite_channel)</br>
 </br>
 
 ## Technology stack
