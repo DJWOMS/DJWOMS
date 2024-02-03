@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Full-Stack developer
+## Hi there 👋 I'm a Tech Lead
 
 <a href="https://www.youtube.com/c/DjangoSchool">
   DjangoSchool
