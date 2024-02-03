@@ -3,6 +3,7 @@
 <a href="https://www.youtube.com/c/DjangoSchool">
   DjangoSchool
 </a>
+
 <a href="https://www.linkedin.com/in/michael-omelchenko-100453156/">
   Linkedin
 </a>
