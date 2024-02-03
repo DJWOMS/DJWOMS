@@ -1,24 +1,21 @@
 ## Hi there 👋 I'm a Full-Stack developer
 
 <a href="https://www.youtube.com/c/DjangoSchool">
-  <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-<a href="https://discord.gg/v36E3cWx">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  DjangoSchool
 </a>
 <a href="https://www.linkedin.com/in/michael-omelchenko-100453156/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  Linkedin
 </a>
 
 </br>
 
 ## Telegram
-
-<img width="12px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" /> [My](https://t.me/DJWOMS)</br>
-<img width="12px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" /> [Channel](https://t.me/django_school)</br>
-<img width="12px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" /> [Django](https://t.me/trueDjangoChannel)</br>
-<img width="12px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" /> [FastAPI](https://t.me/fastapiru)</br>
-<img width="12px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" /> [Masonite](https://t.me/masonite_channel)</br>
+[My](https://t.me/DJWOMS)</br>
+[Channel](https://t.me/django_school)</br>
+[Django](https://t.me/trueDjangoChannel)</br>
+[FastAPI](https://t.me/fastapiru)</br>
+[Masonite](https://t.me/masonite_channel)</br>
+[LiteStar](https://t.me/litestar_true)</br>
 </br>
 
 ## Technology stack
