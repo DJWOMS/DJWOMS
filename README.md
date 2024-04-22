@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Tech Lead
+## Hi there 👋 I'm a CTO
 
 <a href="https://www.youtube.com/c/DjangoSchool">
   DjangoSchool
