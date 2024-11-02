@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm a CTO
 
 <a href="https://www.youtube.com/c/DjangoSchool">
-  DjangoSchool
+  My YouTube channel
 </a>
 <br>
 
 </br>
 
 ## Telegram
-[Channel](https://t.me/django_school)</br>
+[My channel](https://t.me/django_school)</br>
 [Esmerald](https://t.me/esmerald_lilya)</br>
 [Django](https://t.me/trueDjangoChannel)</br>
 [FastAPI](https://t.me/fastapiru)</br>
@@ -23,6 +23,7 @@
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Esmerald](https://img.shields.io/badge/-Esmerald-green?style=flat-square&logo=Esmerald)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
@@ -30,8 +31,6 @@
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
-![Masonite](https://img.shields.io/badge/-Masonite-blue?style=flat-square&logo=Masonite)
-![ORMAR](https://img.shields.io/badge/-ORMAR-DD0031?style=flat-square&logo=ORMAR)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
@@ -46,10 +45,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=whiter)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 **Tools**
 
@@ -66,7 +63,6 @@
 
 ![Rsut](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust)
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
-![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
