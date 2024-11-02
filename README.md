@@ -11,7 +11,6 @@
 </br>
 
 ## Telegram
-[My](https://t.me/DJWOMS)</br>
 [Channel](https://t.me/django_school)</br>
 [Esmerald](https://t.me/esmerald_lilya)</br>
 [Django](https://t.me/trueDjangoChannel)</br>
