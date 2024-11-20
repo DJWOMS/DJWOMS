@@ -14,6 +14,8 @@
 [FastAPI](https://t.me/fastapiru)</br>
 [Masonite](https://t.me/masonite_channel)</br>
 [LiteStar](https://t.me/litestar_true)</br>
+
+[Linkedin](www.linkedin.com/in/mikhail-omelchenko)
 </br>
 
 ## Technology stack
