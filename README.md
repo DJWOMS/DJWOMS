@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a CTO
+## Hello 👋 I am a developer and entrepreneur in the field of implementing AI in business processes.
 
 <a href="https://www.youtube.com/c/DjangoSchool">
   My YouTube channel
