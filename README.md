@@ -8,19 +8,22 @@
 </br>
 
 ## Telegram
-[My channel](https://t.me/django_school)</br>
+[My Telegram channel](https://t.me/django_school)</br>
 [Esmerald](https://t.me/esmerald_lilya)</br>
 [Django](https://t.me/trueDjangoChannel)</br>
 [FastAPI](https://t.me/fastapiru)</br>
 [Masonite](https://t.me/masonite_channel)</br>
 [LiteStar](https://t.me/litestar_true)</br>
 
-[Linkedin](https://www.linkedin.com/in/mikhail-omelchenko/)
 </br>
 
 ## Technology stack
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+
+**AI**
+
+![CrewAI](https://img.shields.io/badge/-Crewai-black?style=flat-square&logo=Crewai)
 
 **Back-end**
 
