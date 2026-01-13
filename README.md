@@ -1,88 +1,76 @@
-## Hello 👋 I am a developer and entrepreneur in the field of implementing AI in business processes.
+## Привет 👋 Я Михаил Омельченко
 
-<a href="https://www.youtube.com/c/DjangoSchool">
-  My YouTube channel
-</a>
-<br>
+**Основатель [DXDocs.ru](https://dxdocs.ru)** — студия технического контента и LLM-ready документации для DevTools, API, SaaS.
 
-</br>
+20 лет в IT: разработчик → тимлид → CTO → основатель студии.
 
-## Telegram
-[My Telegram channel](https://t.me/django_school)</br>
-[Esmerald](https://t.me/esmerald_lilya)</br>
-[Django](https://t.me/trueDjangoChannel)</br>
-[FastAPI](https://t.me/fastapiru)</br>
-[Masonite](https://t.me/masonite_channel)</br>
-[LiteStar](https://t.me/litestar_true)</br>
+---
 
-</br>
+### 🎯 Чем занимаюсь
 
-## Technology stack
+- 📹 **Технический контент** — туториалы, гайды, обзоры продуктов
+- 📚 **Документация** — quickstart, API docs, LLM-ready контент (llms.txt, RAG)
+- 🎓 **Менторинг** — Python/Django/AI, рост до тимлида/CTO
 
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+---
 
-**AI**
+### 📫 Контакты
 
-![CrewAI](https://img.shields.io/badge/-Crewai-black?style=flat-square&logo=Crewai)
+[![Telegram](https://img.shields.io/badge/-@DJWOMS-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/DJWOMS)
+[![YouTube](https://img.shields.io/badge/-Django_School-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/DjangoSchool)
+[![Сайт](https://img.shields.io/badge/-dxdocs.ru-000?style=flat-square&logo=google-chrome&logoColor=white)](https://dxdocs.ru)
+
+---
+
+### 💬 Мои Telegram-каналы
+
+[![Django School](https://img.shields.io/badge/-Django_School-0088cc?style=flat-square&logo=telegram)](https://t.me/django_school)
+[![AI Сфера](https://img.shields.io/badge/-AI_Сфера-0088cc?style=flat-square&logo=telegram)](https://t.me/aisferaic)
+[![Esmerald](https://img.shields.io/badge/-Esmerald-0088cc?style=flat-square&logo=telegram)](https://t.me/esmerald_lilya)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-0088cc?style=flat-square&logo=telegram)](https://t.me/fastapiru)
+[![LiteStar](https://img.shields.io/badge/-LiteStar-0088cc?style=flat-square&logo=telegram)](https://t.me/litestar_true)
+
+---
+
+### 🛠 Технологии
+
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="450" height="280" />
+
+**AI & LLM**
+
+![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Esmerald](https://img.shields.io/badge/-Esmerald-green?style=flat-square&logo=Esmerald)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
-![DCRF](https://img.shields.io/badge/-DCRF-46a2f1?style=flat-square&logo=Django)
-![Django Ninja](https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-square&logo=Django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
-![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Ravyn](https://img.shields.io/badge/-Ravyn-green?style=flat-square)
 
-**Databases**
+**Базы данных**
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
 **Front-end**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-**Tools**
+**Инструменты**
 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+**Изучаю**
 
-**Learning**
+![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-![Rsut](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust)
-![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
+---
 
-## 𝗦𝘁𝗮𝘁𝘀
+### 📊 Статистика
 
 ![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
-
-<!--
-**DJWOMS/DJWOMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
